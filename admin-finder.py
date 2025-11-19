@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -------------------------------------------------
 __AUTHOR__ = 'Moj'
-__TELEGRAM_ID__ = '@iranLwner'
-__INSTAGRAM_ID__ = '@MJi_Devil'
+__TELEGRAM_ID__ = '@Hx5x5x5x'
+__INSTAGRAM_ID__ = '@Hx5x5x5x'
 __GITHUB__ = 'https://github.com/C4ssif3r'
 __COMMENT__ = '''plz get me Star ⭐ :)'''
 
